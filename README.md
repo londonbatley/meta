@@ -1,2 +1,2 @@
-# meta
+# `meta`
 Information about RHSMake
